@@ -1,1 +1,1 @@
-# Bounce-Ball
+This is a program that creates a (600,800) canvas that will contain 100 balls, with all balls colored blue with the exception of the largest ball, which is colored red. The balls will also bounce back at the edge.
